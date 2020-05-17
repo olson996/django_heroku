@@ -15,5 +15,5 @@ Check python venv documentation for a virtual environment activation dependent o
 Then install all the dependencies with pip:
 
 ```
-(.venv) >>> pip install -r requirements.txt
+(.venv) $ pip install -r requirements.txt
 ```
