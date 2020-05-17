@@ -5,8 +5,8 @@ This repository contains a django application with Heroku ready to be deployed.
 
 You can clone this repository by entering in your terminal:
 ```
->>> git clone https://github.com/olson996/django_eb.git django_eb
->>> cd django_eb
+>>> git clone https://github.com/olson996/django_heroku.git django_heroku
+>>> cd django_heroku
 >>> python -m venv .venv
 >>> .venv\Scripts\activate
 ```
